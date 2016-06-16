@@ -1,2 +1,5 @@
 # hello-world
-my first test repository
+
+Hi,humans
+
+i like python
